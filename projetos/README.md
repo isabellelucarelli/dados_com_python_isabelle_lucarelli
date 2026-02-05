@@ -2,7 +2,7 @@
    
    Esse projeto possui o objetivo de criar um pipeline completo em Ciência de Dados dedicado à análise do mercado financeiro brasileiro,com ênfase no impacto do agronegócio nos ativos negociados na B3. 
    O agronegócio possui grande relevância na economia do Brasil,respondendo aproximadamente em 25% do PIB nacional e por quase metade das exportações do país,além da criação de valor no mercado de capitais.Essa significância se reflete diretamente no mercado financeiro,além disso as empresas do setor estão sujeitas a fatores macroeconômicos, a variação do câmbio, inflação e o crescimento da economia, que acabam influenciando o desempenho dos seus ativos.
-   O projeto tem como propósito central é analisar o comportamento histórico dos ativos do agronegócio listados na B3, avaliando de que forma variáveis macroeconômicas brasileiras influenciam seus preços, retornos e tendências ao longo do tempo.  
+   O projeto tem como propósito central analisar o comportamento histórico dos ativos do agronegócio listados na B3, avaliando de que forma variáveis macroeconômicas brasileiras influenciam seus preços, retornos e tendências ao longo do tempo.  
   A partir dessa análise, busca-se identificar padrões, relações e métricas relevantes que possam apoiar análises financeiras mais robustas e a tomada de decisão fundamentada em dados.
 
 ## 2. Introdução
