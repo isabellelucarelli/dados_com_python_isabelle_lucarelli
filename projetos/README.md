@@ -13,8 +13,8 @@
   Apesar da significância do agronegócio para a economia brasileira,ainda existe uma lacuna analítica na compreensão do impacto das variáveis macroeconômicas no comportamento histórico dos ativos do setor negociados na B3.
   
   O problema central tende responder essas perguntas:
-  
--Qual é a contribuição do agronegócio para o crescimento e a estabilidade do PIB brasileiro, e através de quais canais (exportações, emprego, encadeamentos produtivos) esse impacto se materializa?  
+
+- Qual é a contribuição do agronegócio para o crescimento e a estabilidade do PIB brasileiro, e através de quais canais (exportações, emprego, encadeamentos produtivos) esse impacto se materializa?  
 - Como os ativos do agronegócio listados na B3 se comportaram historicamente ao longo do tempo?
 - Quais padrões e tendências podem ser identificados nos preços e retornos desses ativos?
 - Qual é a relação entre indicadores macroeconômicos brasileiros (PIB, inflação, taxa Selic, câmbio) e o desempenho dessas ações?
