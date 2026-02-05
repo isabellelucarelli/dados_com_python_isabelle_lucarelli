@@ -3,6 +3,7 @@
 Esta pasta reúne estudos, exercícios guiados e conteúdos de aprendizado em Ciência de Dados com Python.
 
 📊 Imersão Alura Dados com Python 2026
+
 Projeto de estudos Janeiro de 2026 da Imersão Dados com Python (Alura), integrando todas as aulas em um único notebook. Aperfeiçoei competências em manipulação, análise e visualização de dados, criando dashboards e insights estratégicos, elevando minha expertise prática em Python para soluções reais.
 
 🎯 Sobre o Projeto
